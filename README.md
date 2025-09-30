@@ -46,8 +46,4 @@
 [![Tcc](https://github-readme-stats.vercel.app/api/pin/?username=AlexandreCoelhoSiqueiraFilho&repo=Tcc&theme=radical&show_owner=true)](https://github.com/AlexandreCoelhoSiqueiraFilho/Tcc)
 
 
-<div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexandreCoelhoSiqueiraFilho&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
